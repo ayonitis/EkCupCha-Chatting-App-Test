@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087446641640",
+    "project_id": "let-schat-4c069",
+    "storage_bucket": "let-schat-4c069.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087446641640:android:edb589abc5367aacea925d",
+        "android_client_info": {
+          "package_name": "com.creativeinstitute.letschat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjm9-OR5UnoebNZOml25PjV44XvDCGRJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

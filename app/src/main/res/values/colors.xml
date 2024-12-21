@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_background">#FFF3E0</color> <!-- Light beige background -->
+    <color name="dark_text">#333333</color> <!-- Dark color for text -->
+    <color name="light_gray">#DDDDDD</color> <!-- Light gray for input field border -->
+    <color name="primary">#FF5722</color> <!-- Primary color for focused fields and interactive elements -->
+    <color name="button_background">#FF7043</color> <!-- Button background color (warm orange) -->
+    <color name="primary_text">#795548</color> <!-- For text like "Register" -->
+    <!-- Primary color for the button -->
+    <color name="primary_color">#FF5722</color>
+    <!-- Color for button when pressed -->
+    <color name="button_pressed_color">#E64A19</color>
+
+    <color name="primary_text_color">#FF5722</color> <!-- Same as primary color or as needed -->
+
+    <!-- Primary Color -->
+    <color name="primaryColor">#FF5722</color> <!-- Replace with your desired color hex code -->
+
+    <!-- Lighter Version of Primary Color -->
+    <color name="primaryColorLight">#FF8A50</color> <!-- Replace with a lighter shade of primaryColor -->
+
+</resources>
